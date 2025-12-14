@@ -92,6 +92,9 @@ java -cp out com.airtribe.librarymanagement.LibraryManagementApplication
 ## Notes / Defaults
 - Default `LendingPolicy` is currently set to **max 3 books** and **14 days** (see `LibraryManagementApplication`).
 
+## Submission
+- Assignment submission has been done via a Pull Request from `project/library-management-system` to `main`.
+
 ## Class diagram
 
 ![Class diagram](LibraryManagementSystem.png)
